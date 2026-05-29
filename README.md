@@ -40,10 +40,10 @@ Welcome to my digital workspace! I specialize in leveraging data-driven architec
 ## 📊 My GitHub Insights
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Haider's GitHub Stats" height="195px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=radical" alt="Haider's Coding Streak" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedAiHaider&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Haider's GitHub Stats" height="195px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedAiHaider&theme=radical" alt="Haider's Coding Streak" height="195px"/>
 </p>
 
 ### 🤝 Let's Connect!
-* **Professional Network:** [LinkedIn](YOUR_LINKEDIN_URL_HERE)
-* **Inquiries / Freelance Collaboration:** [Email Me](mailto:YOUR_EMAIL_HERE)
+* **Professional Network:** https://www.linkedin.com/in/syed-haider-3a15a023b/
+* **Inquiries / Freelance Collaboration:** haideralish32@gmail.com
