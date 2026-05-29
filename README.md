@@ -45,5 +45,5 @@ Welcome to my digital workspace! I specialize in leveraging data-driven architec
 </p>
 
 ### 🤝 Let's Connect!
-* **Professional Network:** https://www.linkedin.com/in/syed-haider-3a15a023b/
+* **Professional Network:** www.linkedin.com/in/syed-haider-3a15a023b
 * **Inquiries / Freelance Collaboration:** haideralish32@gmail.com
